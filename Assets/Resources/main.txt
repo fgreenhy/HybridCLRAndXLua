@@ -1,0 +1,2 @@
+local test = "Hello World,这是一段LUA代码"
+print(test)
